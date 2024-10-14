@@ -1,0 +1,4 @@
+#TotemRegister Mod Config
+#Register the items,use the "," to split the items,for example,minecraft:dirt,minecraft:diamond
+registers = "minecraft:dirt,minecraft:diamond"
+
